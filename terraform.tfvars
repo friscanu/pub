@@ -1,7 +1,0 @@
-resource_group_name = "do_not_delete"
-location           = "westeurope"
-vm_size            = "Standard_B1ls"
-admin_username     = "azureuser"
-ssh_public_key     = "id_rsa.pub"
-subnet_name         = "snet-westeurope-1"
-vnet_name           = "vnet-westeurope"
